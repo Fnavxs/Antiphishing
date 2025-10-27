@@ -1,0 +1,23 @@
+# Archivos de Secretos y Entorno
+.env
+.env.*
+
+# Carpetas de Entorno Virtual
+venv/
+.venv/
+env/
+.env/
+pip-log.txt
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Modelo (Opcional, pero recomendado si se vuelve grande)
+# *.pkl
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+.DS_Store
